@@ -1,0 +1,1 @@
+Adds up all the numbers from the command line arguments and prints the total.
